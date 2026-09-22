@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/NeerajMann19/leetcode/tree/master/1114-print-in-order) |
+| [1116-print-zero-even-odd](https://github.com/NeerajMann19/leetcode/tree/master/1116-print-zero-even-odd) |
 ## Linked List
 |  |
 | ------- |
