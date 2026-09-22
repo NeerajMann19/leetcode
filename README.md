@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NeerajMann19/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NeerajMann19/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/NeerajMann19/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/NeerajMann19/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NeerajMann19/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NeerajMann19/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2733-neither-minimum-nor-maximum](https://github.com/NeerajMann19/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -76,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/NeerajMann19/leetcode/tree/master/0460-lfu-cache) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/NeerajMann19/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/NeerajMann19/leetcode/tree/master/0460-lfu-cache) |
+## Stack
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/NeerajMann19/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
