@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NeerajMann19/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
 |  |
@@ -64,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/NeerajMann19/leetcode/tree/master/1114-print-in-order) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
