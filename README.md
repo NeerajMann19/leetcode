@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NeerajMann19/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/NeerajMann19/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/NeerajMann19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NeerajMann19/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/NeerajMann19/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/NeerajMann19/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
