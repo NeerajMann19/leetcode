@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/NeerajMann19/leetcode/tree/master/0344-reverse-string) |
+| [1446-consecutive-characters](https://github.com/NeerajMann19/leetcode/tree/master/1446-consecutive-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NeerajMann19/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
 |  |
