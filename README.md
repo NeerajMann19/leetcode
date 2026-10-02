@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NeerajMann19/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/NeerajMann19/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NeerajMann19/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/NeerajMann19/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NeerajMann19/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -105,8 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NeerajMann19/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/NeerajMann19/leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NeerajMann19/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/NeerajMann19/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
