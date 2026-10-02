@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NeerajMann19/leetcode/tree/master/0054-spiral-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NeerajMann19/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/NeerajMann19/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NeerajMann19/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/NeerajMann19/leetcode/tree/master/0155-min-stack) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/NeerajMann19/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NeerajMann19/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NeerajMann19/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
