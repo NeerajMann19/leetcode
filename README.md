@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/NeerajMann19/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/NeerajMann19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1446-consecutive-characters](https://github.com/NeerajMann19/leetcode/tree/master/1446-consecutive-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NeerajMann19/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/NeerajMann19/leetcode/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/NeerajMann19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/NeerajMann19/leetcode/tree/master/0460-lfu-cache) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NeerajMann19/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NeerajMann19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NeerajMann19/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/NeerajMann19/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NeerajMann19/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NeerajMann19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
