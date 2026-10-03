@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/NeerajMann19/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NeerajMann19/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/NeerajMann19/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/NeerajMann19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/NeerajMann19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NeerajMann19/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/NeerajMann19/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NeerajMann19/leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/NeerajMann19/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NeerajMann19/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/NeerajMann19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NeerajMann19/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## String
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
+| [0349-intersection-of-two-arrays](https://github.com/NeerajMann19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/NeerajMann19/leetcode/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/NeerajMann19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/NeerajMann19/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NeerajMann19/leetcode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NeerajMann19/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/NeerajMann19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/NeerajMann19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NeerajMann19/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/NeerajMann19/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NeerajMann19/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/NeerajMann19/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
