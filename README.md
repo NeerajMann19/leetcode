@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NeerajMann19/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/NeerajMann19/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/NeerajMann19/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NeerajMann19/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NeerajMann19/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NeerajMann19/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/NeerajMann19/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NeerajMann19/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/NeerajMann19/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NeerajMann19/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NeerajMann19/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/NeerajMann19/leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/NeerajMann19/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/NeerajMann19/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NeerajMann19/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NeerajMann19/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/NeerajMann19/leetcode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NeerajMann19/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/NeerajMann19/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/NeerajMann19/leetcode/tree/master/0349-intersection-of-two-arrays) |
