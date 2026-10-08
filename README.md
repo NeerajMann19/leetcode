@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NeerajMann19/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/NeerajMann19/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NeerajMann19/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NeerajMann19/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/NeerajMann19/leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/NeerajMann19/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/NeerajMann19/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/NeerajMann19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NeerajMann19/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/NeerajMann19/leetcode/tree/master/0460-lfu-cache) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NeerajMann19/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/NeerajMann19/leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/NeerajMann19/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NeerajMann19/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/NeerajMann19/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/NeerajMann19/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
